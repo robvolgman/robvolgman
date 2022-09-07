@@ -1,5 +1,5 @@
 Hi, I’m @robvolgman
-I’m a Master's of Science in Analytics candidate at University of Chicago with a background in equity options trading. I'm interested in modeling of financial markets and other machine learning projects.
+I’m Rob Volgman. I'm interested in modeling of financial markets and other machine learning projects. I graduated with a Master's of Analytics in August 2022 and am now working as a quantitative trader in Chicago. 
 
 
 <!---
