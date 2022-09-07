@@ -1,5 +1,4 @@
-Hi, I’m @robvolgman
-I’m Rob Volgman. I'm interested in modeling of financial markets and other machine learning projects. I graduated with a Master's of Analytics in August 2022 and am now working as a quantitative trader in Chicago. 
+Hi, I’m Rob Volgman. I'm interested in modeling of financial markets and other machine learning projects. I graduated with a Master's of Analytics in August 2022 and am now working as a quantitative trader in Chicago. 
 
 
 <!---
